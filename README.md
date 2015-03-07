@@ -1,5 +1,7 @@
 # Testing Feel++
 
+[![Join the chat at https://gitter.im/feelpp/quickstart](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/feelpp/quickstart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Travis-ci
 
 Quickstart is built 
